@@ -1,3 +1,5 @@
+package Requisições_e_respostas;
+
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
