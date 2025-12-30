@@ -1,4 +1,4 @@
-package persistindo_dados.ex2;
+package persistindo_dados.ex2e3;
 
 public class Titulo {
     private String nome;
